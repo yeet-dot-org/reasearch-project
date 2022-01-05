@@ -1,2 +1,2 @@
 # reasearch-project
-link iiis: https://github.com/yeet-dot-org/reasearch-project
+link iiis: https://yeet-dot-org.github.io/reasearch-project/
